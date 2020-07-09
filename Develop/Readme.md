@@ -1,7 +1,7 @@
-# Read me 
+# Sample Readme from Generator
 
   # Description
-  Create Readme Generator
+  This was created through the command line console from a js program to generate a formatted ReadMe
 
   # Table of Contents
   * [Installation](#installation)
@@ -12,14 +12,14 @@
   * [Questions](#questions)
   
   # Installation
-  install
+  Installing inquire, fs and linking the proper files
   # Usage
-  to make a readme
+  to Create a quick formatted readme document for github repos
   # License
-  a good one
+  CLI
   # Contributing
-  good ones
+  stringcastify video 
   # Tests
-  tests
+  running it through the command line in node
   # Questions
-  555-555-5555 
+  example@email.com
