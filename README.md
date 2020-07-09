@@ -47,5 +47,5 @@ THEN I am taken to the corresponding section of the README
 
 # Readme Video Link
 
-[Readme Demo Video](https://drive.google.com/file/d/1Zv5idGcqgVWAUxNINt4CSXAG2ibsR6Yq/view)
+Readme Demo Video: https://drive.google.com/file/d/1Zv5idGcqgVWAUxNINt4CSXAG2ibsR6Yq/view
  
