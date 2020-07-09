@@ -46,6 +46,6 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 # Readme Video Link
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-https://drive.google.com/file/d/1Zv5idGcqgVWAUxNINt4CSXAG2ibsR6Yq/view
+
+[Readme Demo Video](https://drive.google.com/file/d/1Zv5idGcqgVWAUxNINt4CSXAG2ibsR6Yq/view)
  
